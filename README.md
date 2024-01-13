@@ -2,5 +2,5 @@
 small program developed in Java based on the hangman game
 
 ## Java program
-* **[ahorcado](Javi-py/JavaJuegoAhorcado)** 
+* **[Ahorcado](Javi-py/JavaJuegoAhorcado)** 
 * main class
